@@ -1,0 +1,52 @@
+
+html{
+  background-color: #99DBF5;
+}
+
+
+h2{
+  font-family: cursive;
+  font-size: x-large;
+  text-align: center;
+}
+
+#red{
+color: red;
+background-color: white;
+}
+
+#blue{
+ color: blue;
+}
+
+#orange{
+  color: orange;
+}
+
+#green{
+  color: #124576;
+}
+
+#yellow{
+  color: yellow;    
+}
+
+.color-title{
+  font-weight: normal;
+}
+
+img{
+  height: 200px;
+  width: 200px;
+}
+
+.division{
+  padding: 50px;
+  border: 50px outset red;
+  background-color: lightblue;    
+  text-align: center;
+  margin: 50px outset blue ;
+
+}
+
+
